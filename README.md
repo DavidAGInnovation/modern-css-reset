@@ -19,4 +19,8 @@ Simply include this CSS file at the beginning of your project to ensure a consis
 
 ```html
 <link rel="stylesheet" href="path/to/your/reset.css">
+```
 
+## Credits
+
+This reset is inspired by A (more) Modern CSS Reset (https://piccalil.li/blog/a-more-modern-css-reset/) published on 18 September 2023 by Andy Bell.
