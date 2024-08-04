@@ -12,6 +12,7 @@ This CSS reset is designed to provide a clean and consistent foundation for your
 - **Inherited Fonts for Inputs and Buttons**: Ensures that form elements inherit the font-family and font-size from their parent element for consistency.
 - **Resizable Textareas**: Sets a minimum height for textareas to avoid them being too small by default.
 - **Enhanced Scroll Margin for Anchored Elements**: Adds extra scroll margin to anchored elements to improve user experience.
+- **Keyboard Accessibility**: Ensures that users can select buttons using the keyboard with a high-contrast outline for better visibility.
 
 ## Usage
 
